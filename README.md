@@ -6,10 +6,6 @@
 
 > There are some limitations to this work. If you have any questions or suggestions, please feel free to contact me. Your suggestions are greatly appreciated.
 
-
-__Our extension of this work maximizes the energy harvesting (EH) efficiency by jointly optimizing the phase shift of the reflecting elements, the transmit power, the length of the EH phase, and the RIS scheduling. Please find the latest repository by the below link:  
-[UAV—RIS_EnergyHarvesting for IEEE TWC paper](https://github.com/Haoran-Peng/UAV-RIS_EnergyHarvesting)__
-
 ## Citing
 Please consider **citing** our paper if this repository is helpful to you.
 **Bibtex:**
